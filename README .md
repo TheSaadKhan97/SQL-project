@@ -25,10 +25,10 @@ Real problems asked at companies like Amazon, Google, and Meta, tagged by topic 
 20 games, 20 levels each, for 400 total challenges — all framed as real-world scenarios instead of dry exercises. Solve crimes as a SQL Detective, run a restaurant's database, investigate a bank heist, manage a hospital's records, analyze a music streaming chart, run an airline's operations, and more.
 
 ### Cheatsheet
-A searchable, categorized quick reference covering basic commands, WHERE filters, sorting, aggregate functions, joins, window functions, CTEs, subqueries, CASE statements, date functions, string functions, NULL handling, set operations, and interview tips — built for quick lookup while you're actually writing queries.
+A searchable, categorized quick reference covering basic commands, WHERE filters, sorting, aggregate functions, joins, window functions, CTEs, subqueries, CASE statements, date functions, string functions, NULL handling, set operations, and interview tips and built for quick lookup while you're actually writing queries.
 
 ### Progress Tracking
-XP and streak tracking, per-lesson and per-game completion percentages, and an overall progress bar so you always know where you left off.
+XP and streak tracking, per lesson and per game completion percentages, and an overall progress bar so you always know where you left off.
 
 ### Account System
 Simple email and password login with account creation, and progress saved locally in the browser — no server required.
@@ -50,7 +50,7 @@ No build step, no dependencies to install, no server to run.
 
 ## Who This Is For
 
-Anyone learning SQL for a data role — from someone writing their first `SELECT` statement to someone brushing up on window functions and CTEs before a technical interview.
+Anyone learning SQL for a data role from someone writing their first `SELECT` statement to someone brushing up on window functions and CTEs before a technical interview.
 
 ## Roadmap
 
