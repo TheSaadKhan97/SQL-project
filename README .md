@@ -1,4 +1,4 @@
-# Code with Mashwani — SQL Mastery: Beginner to Job-Ready
+# Code with Mashwani — SQL Mastery: Beginner to Job Ready
 
 A self contained,  web app that teaches SQL from the very first `SELECT` statement all the way to interview-ready mastery. Built as a 30 day structured curriculum with daily lessons, hands on  practice, real interview questions, and 400 game style challenges.
 
